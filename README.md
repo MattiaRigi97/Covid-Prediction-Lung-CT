@@ -7,7 +7,7 @@ The goal of this research is to train a classifier to recognize Covid-19 positiv
 <h2>Dataset</h2>
 <ul>
 <li> Original positive data: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=80969742 </li>
-<li> Orifinal negative data: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=80969771#80969771bcab02c187174a288dbcbf95d26179e8 </li>
+<li> Original negative data: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=80969771#80969771bcab02c187174a288dbcbf95d26179e8 </li>
 <li> Link to our custom dataset: https://drive.google.com/file/d/112rnDTasnEIYrHm6E2sd-EgNbi-UKuKV/view?usp=sharing </li>
 </ul>
 
